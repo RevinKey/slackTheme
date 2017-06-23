@@ -48,7 +48,7 @@ ts-message:hover, .day_divider .day_divider_label {
 .light_theme ts-message .message_content>.message_content_header>.message_content_header_left>.message_sender{
   color: #BE84F2 !important;
 }
-#details_tab{
+#details_tab, #details_tab .channel_page_section, #flex_contents .heading {
   background: #222222 !important;
 
 }
