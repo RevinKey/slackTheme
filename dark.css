@@ -4,13 +4,13 @@
 
 }
 #messages_container, #client_header{
-  background: #181712;
+  background: #18121E;
 
 }
 #msg_input, #primary_file_button {
   background: transparent !important;
   color: #eee !important;
-  border-color: #444 !important;
+  border-color: #18121E !important;
 }
 
 .day_divider .day_divider_label {
@@ -49,7 +49,7 @@ pre, ts-message .action_hover_container .btn_msg_action, .file_container .CodeMi
 }
 
 .rxn, .search_result_with_extract, .flexbox_client.flexpane_redesign.flex_pane_showing #col_flex, .flexpane_redesign #flex_contents .heading, #flex_contents .subheading, .search_segmented_control, .menu {
-  border-color: #000 !important;
+  border-color: #18121E !important;
 }
 
 .search_result_with_extract {
@@ -74,23 +74,23 @@ code {
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) #archive_msgs_scroller_div::-webkit-scrollbar-thumb, .supports_custom_scrollbar:not(.slim_scrollbar) #msgs_scroller_div::-webkit-scrollbar-thumb, .supports_custom_scrollbar:not(.slim_scrollbar) #col_channels:hover #channels_scroller::-webkit-scrollbar-thumb {
-  background: #000 !important;
+  background: #18121E !important;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) #archive_msgs_scroller_div::-webkit-scrollbar-thumb, .supports_custom_scrollbar:not(.slim_scrollbar) #archive_msgs_scroller_div::-webkit-scrollbar-track, .supports_custom_scrollbar:not(.slim_scrollbar) #msgs_scroller_div::-webkit-scrollbar-thumb, .supports_custom_scrollbar:not(.slim_scrollbar) #msgs_scroller_div::-webkit-scrollbar-track, .supports_custom_scrollbar:not(.slim_scrollbar) #col_channels:hover #channels_scroller::-webkit-scrollbar-thumb, .supports_custom_scrollbar:not(.slim_scrollbar) #col_channels:hover #channels_scroller::-webkit-scrollbar-track {
-  color: #000 !important;
+  color: #18121E !important;
 }
 
 a, a:link, a:visited {
-  color: #a0ccff !important;
+  color: #EAC67A !important;
 }
 
 ts-message a .mention {
-  color: #aff !important;
+  color: #233240 !important;
 }
 
 a:hover {
-  color: #00aef9 !important;
+  color: #233237 !important;
 }
 
 
@@ -103,11 +103,11 @@ a:hover {
 }
 
 #channels_scroller.show_which_channel_is_active ul li.active .im_name, .channels_list_holder ul li.unread:not(.muted_channel) .primary_action, #channels_scroller.show_which_channel_is_active ul li.active .primary_action {
-  color: #fff !important;
+  color: #984B43 !important;
 }
 
 #msgs_div .unread_divider.no_unreads .divider_label {
-  background: #000 !important;
+  background: #18121E !important;
   color: #aaa !important;
 }
 
