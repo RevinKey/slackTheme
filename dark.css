@@ -52,3 +52,9 @@ ts-message:hover, .day_divider .day_divider_label {
   background: #222222 !important;
 
 }
+.ql-editor{
+  background: #222222 !important;
+}
+.ql-editor p{
+  color: white !important;
+}
