@@ -3,8 +3,7 @@
 ts-jumper input[type="text"] {
   background: #222222 !important;
 }
-.light_theme ts-message .message_content>.message_content_header>.message_content_header_left>.message_sender{
-  color: #BE84F2 !important;
+.light_theme ts-message .message_content .message_sender{  color: #BE84F2 !important;
 }
 #client_body::before {
   border-bottom: 1px solid #494E6B !important;
