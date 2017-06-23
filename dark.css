@@ -1,11 +1,11 @@
 #msgs_scroller_div::-webkit-scrollbar-track, #client_body::before, .client_container,
 #search_terms, #client_body, #footer, ts-message, .channel_header, ts-jumper ts-jumper-container,
 ts-jumper input[type="text"] {
-  background: #494E6B !important;
+  background: #192231 !important;
 }
 
 #client_body::before {
-  border-bottom: 1px solid #192231 !important;
+  border-bottom: 1px solid #494E6B !important;
 }
 
 ts-message, .channel_title .channel_name, ts-jumper input[type="text"],
@@ -29,11 +29,11 @@ ts-jumper input[type="text"]::-webkit-input-placeholder {
 }
 
 .day_container .day_msgs {
-  border-top: 1px solid #192231 !important;
+  border-top: 1px solid #494E6B !important;
 }
 
 ts-message:hover, .day_divider .day_divider_label {
-  background: #192231 !important;
+  background: #494E6B !important;
 }
 
 #messages_container::after {
