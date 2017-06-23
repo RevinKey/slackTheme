@@ -1,0 +1,13 @@
+
+#flex_contents{
+  background: #181712;
+}
+#messages_container{
+  background: #757571;
+
+}
+#msg_input, #primary_file_button {
+  background: transparent !important;
+  color: #eee !important;
+  border-color: #444 !important;
+}
